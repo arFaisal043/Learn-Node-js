@@ -1,0 +1,6 @@
+Topic:
+
+1. What is Node js, how to build this
+   - single-thread vs multi-thread
+   - Synchronous vs Asynchronous
+   - Blocking vs Non Blocking I/O
