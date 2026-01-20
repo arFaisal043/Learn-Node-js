@@ -1,0 +1,27 @@
+{
+  "name": "learn-node.js",
+  "version": "1.0.0",
+  "description": "Learn Node JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arFaisal043/Learn-Node-js.git"
+  },
+  "keywords": [
+    "node.js",
+    "js",
+    "backend-development"
+  ],
+  "author": "Faisal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arFaisal043/Learn-Node-js/issues"
+  },
+  "homepage": "https://github.com/arFaisal043/Learn-Node-js#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
