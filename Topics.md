@@ -10,3 +10,9 @@
    - Understanding package.json file: 
       **The `package.json` file is Node.js's project configuration manifest that defines metadata, dependencies, scripts, and settings, serving as the central blueprint that npm uses to manage your project's ecosystem.**
    - Create a package.json file -> npm init
+5. Create Server
+6. Request Response Model
+7. URL module
+8. fs (file system) module
+9. Event module
+10. path module

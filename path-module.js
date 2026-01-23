@@ -1,7 +1,7 @@
 // Path Module: for find files location
 
 const path = require("path");
-const filesDir = path.join(__dirname, "path-module");
+const filesDir = path.join(__dirname, "path-module");  // add path-module on directory file
 
 // find files directory
 console.log(filesDir); // C:\Users\USER\Desktop\Learn Node JS\path-module
