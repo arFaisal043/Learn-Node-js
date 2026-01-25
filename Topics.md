@@ -14,5 +14,7 @@
 6. Request Response Model
 7. URL module
 8. fs (file system) module
-9. Event module
+9. Event Driven Architecture
 10. path module
+11. CORS (Cross Origin Resource Sharing) ----- < not complete >
+12. How V8 Engine works 
