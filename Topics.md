@@ -14,7 +14,9 @@
 6. Request Response Model
 7. URL module
 8. fs (file system) module
-9. Event Driven Architecture
+9. Event Driven Architecture --- <not complete properly>
 10. path module
 11. CORS (Cross Origin Resource Sharing) ----- < not complete >
 12. How V8 Engine works 
+13. Parsing -> 1. Tokenization and 2. AST
+14. Callstack, Event Loop, lib.uv
