@@ -4,7 +4,7 @@ ________________________________________________________________________________
 
 ⚪ Synchronous File Operations:
 
-// FS create/write/content change:
+// FS create/write/content change: it overwrite the content if file is the same
 
 const fs = require("fs");
 
@@ -20,7 +20,7 @@ catch(err) {
 
 
 
-// fs Append to file:
+// fs Append to file: 
 
 const fs = require("fs");
 
