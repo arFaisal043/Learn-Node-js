@@ -140,4 +140,24 @@ catch(err) {
     console.log(err);
 }
 
+
+
+
+
+
+
+
+
+_____________________________ Asynchronous _______________________________
+
+console.log("Start...");
+
+const createFile = async () => {
+    const data = await fs.writeFile('hello.txt', 'Hello World!', 'utf-8');
+    console.log("File content: ", data);
+}
+createFile();
+
+console.log("End...");
+
 */

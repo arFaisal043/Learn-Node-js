@@ -10,6 +10,7 @@ class OrderService extends EventEmitter {
 }
 
 // 2. SERVICES (Consumers)
+
 class EmailService {
   static sendEmail(item) {
     console.log(`📧 Email sent for: ${item}`);
