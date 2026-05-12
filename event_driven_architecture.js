@@ -36,3 +36,4 @@ orderService.on("orderCreated", (item) => {
 
 // 4. TRIGGER EVENT
 orderService.createOrder("iPhone 15");
+

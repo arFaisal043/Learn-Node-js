@@ -7,6 +7,7 @@ ________________________________________________________________________________
 ➡ Structure:
 
 const http = require("http");
+const http = require('node:http'); // Recommendation by Node 
 
 const server = http.createServer( (req , res) => {
     .........
@@ -18,7 +19,7 @@ server.listen(7070 , () => {
 
 ➡ Code Implementation:
 
-const http = require("http");
+const http = require('node:http');
 
 const Server = http.createServer((req, res) => {
   // Browser understand this is a html file and content
