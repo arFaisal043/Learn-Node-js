@@ -1,14 +1,62 @@
 [
   {
     "id": 1,
-    "name": "Product 1"
+    "name": "Wireless Noise-Canceling Headphones",
+    "shortDescription": "Premium over-ear headphones with active noise cancellation and 30-hour battery life.",
+    "price": 299.99
   },
   {
     "id": 2,
-    "name": "Product 2"
+    "name": "Mechanical Gaming Keyboard",
+    "shortDescription": "RGB backlit mechanical keyboard with tactile blue switches and programmable macros.",
+    "price": 129.5
   },
   {
     "id": 3,
-    "name": "Product 3"
+    "name": "4K Ultra HD Monitor",
+    "shortDescription": "27-inch IPS display with HDR support and 144Hz refresh rate for smooth visuals.",
+    "price": 450.0
+  },
+  {
+    "id": 4,
+    "name": "Ergonomic Office Chair",
+    "shortDescription": "Adjustable lumbar support, breathable mesh back, and customizable armrests.",
+    "price": 189.99
+  },
+  {
+    "id": 5,
+    "name": "Smart Fitness Watch",
+    "shortDescription": "Tracks heart rate, steps, and sleep patterns with water-resistant design.",
+    "price": 89.95
+  },
+  {
+    "id": 6,
+    "name": "Portable Bluetooth Speaker",
+    "shortDescription": "Compact waterproof speaker with 360-degree sound and 12-hour playtime.",
+    "price": 49.99
+  },
+  {
+    "id": 7,
+    "name": "USB-C Docking Station",
+    "shortDescription": "Expand your connectivity with HDMI, Ethernet, USB 3.0, and SD card reader.",
+    "price": 75.0
+  },
+  {
+    "id": 8,
+    "name": "Wireless Mouse",
+    "shortDescription": "Silent click technology with ergonomic design and long-lasting battery.",
+    "price": 29.99
+  },
+  {
+    "id": 9,
+    "name": "Laptop Stand",
+    "shortDescription": "Aluminum alloy stand with adjustable height for better posture and cooling.",
+    "price": 39.95
+  },
+  {
+    "id": 10,
+    "name": "Webcam 1080p",
+    "shortDescription": "Full HD webcam with built-in microphone and auto-light correction.",
+    "price": 59.99
   }
 ]
