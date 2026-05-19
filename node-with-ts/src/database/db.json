@@ -1,10 +1,5 @@
 [
-  {
-    "id": 1,
-    "name": "Wireless Noise-Canceling Headphones",
-    "shortDescription": "Premium over-ear headphones with active noise cancellation and 30-hour battery life.",
-    "price": 299.99
-  },
+  { "id": 1, "name": "demo product", "shortDescription": "demo", "price": 550 },
   {
     "id": 2,
     "name": "Mechanical Gaming Keyboard",
@@ -15,7 +10,7 @@
     "id": 3,
     "name": "4K Ultra HD Monitor",
     "shortDescription": "27-inch IPS display with HDR support and 144Hz refresh rate for smooth visuals.",
-    "price": 450.0
+    "price": 450
   },
   {
     "id": 4,
@@ -39,7 +34,7 @@
     "id": 7,
     "name": "USB-C Docking Station",
     "shortDescription": "Expand your connectivity with HDMI, Ethernet, USB 3.0, and SD card reader.",
-    "price": 75.0
+    "price": 75
   },
   {
     "id": 8,
@@ -58,5 +53,23 @@
     "name": "Webcam 1080p",
     "shortDescription": "Full HD webcam with built-in microphone and auto-light correction.",
     "price": 59.99
+  },
+  {
+    "id": 1779049965571,
+    "name": "testing product",
+    "shortDescription": "description about products",
+    "price": 300
+  },
+  {
+    "id": 1779050211022,
+    "name": "demo product",
+    "shortDescription": "demo",
+    "price": 50
+  },
+  {
+    "id": 1779101575241,
+    "name": "Another demo product",
+    "shortDescription": "Huddai",
+    "price": 50
   }
 ]
