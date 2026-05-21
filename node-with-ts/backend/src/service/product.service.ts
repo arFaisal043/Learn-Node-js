@@ -1,7 +1,7 @@
 import path from "node:path";
 import fs from "fs";
 
-const filePath = path.join(process.cwd(), './src/database/db.json')
+const filePath = path.join(process.cwd(), './backend/src/database/db.json')
 
 export const readProduct = () => {
     // console.log(process.cwd()); // C:\Users\USER\Desktop\Learn Node JS\node-with-ts
